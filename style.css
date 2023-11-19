@@ -1,0 +1,57 @@
+header {
+	text-align: center;
+	font-size: 45px;
+	background-color: gray;
+	margin-left: 200px;
+	margin-right: 200px;
+	word-spacing: 15px;
+}
+#header {
+	color: lightblue;
+}
+body {
+	background-color: lightgray;
+}
+div {
+	background-color: lightgreen;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#footerhome {
+	margin-left: 200px;
+	margin-right: 200px;
+	background-color: gray;
+	margin-top: 450px;
+}
+#footerstore {
+	margin-left: 200px;
+	margin-right: 200px;
+	background-color: gray;
+	margin-top: 465px;
+}
+#footercontact {
+	margin-left: 200px;
+	margin-right: 200px;
+	background-color: gray;
+	margin-top: 455px;
+}
+#flopparundownload {
+	width: 150px;
+	height: 50px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.text {
+	font-size: 25px;
+}
+.text-zagolovok {
+	font-size: 40px;
+}
+.text-zagolovok-center {
+	font-size: 40px;
+	text-align: center;
+}
+.text-center {
+	font-size: 25px;
+	text-align: center;
+}
